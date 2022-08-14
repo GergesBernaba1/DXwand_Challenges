@@ -1,0 +1,11 @@
+There many cases can tested in address bar like:
+1- Check by adding spaces at the end of the URL spaces should be trimmed.
+2- Check by adding spaces at the start of the URL and click on the button, spaces should not be considered.
+3- Check by adding a valid URL without extension.
+4- Verify a URL containing any special characters
+5- Verify an anchor text URL.
+6- Check by adding spaces between the URL.
+7- Verify the behaviour of the application by entering an encoded URL.
+8- Verify user can type URL in the field.
+9- Check by adding a valid URL with https://.
+10- Check by adding the URLs of the maximum length. 
